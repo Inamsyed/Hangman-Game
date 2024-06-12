@@ -1,10 +1,1 @@
-Hello World
-
-Hello Insaan
-
-Ya baniii
-
-Qasm Bin Abdulaziz ibn saood
-
-Khoya Nazeer
-
+Simple Hangman Game
